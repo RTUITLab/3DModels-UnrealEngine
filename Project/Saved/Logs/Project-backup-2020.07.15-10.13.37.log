@@ -1,0 +1,942 @@
+﻿Log file open, 07/15/20 11:43:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.020971
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.15-09.43.33:026][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.15-09.43.33:026][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.15-09.43.33:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:026][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:027][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.15-09.43.33:027][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.15-09.43.33:028][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.15-09.43.33:028][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.15-09.43.33:028][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.15-09.43.33:028][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.15-09.43.33:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:028][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:036][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.15-09.43.33:036][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.15-09.43.33:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.15-09.43.33:037][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.15-09.43.33:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.15-09.43.33:039][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:039][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.15-09.43.33:040][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.15-09.43.33:040][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.15-09.43.33:040][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.15-09.43.33:041][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.15-09.43.33:047][  0]LogHAL: Display: Platform has ~ 8 GB [8458940416 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.15-09.43.33:047][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.15-09.43.33:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.15-09.43.33:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.15-09.43.33:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.15-09.43.33:050][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.15-09.43.33:051][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.15-09.43.33:052][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.15-09.43.33:052][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.15-09.43.33:052][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2020.07.15-09.43.33:053][  0]LogInit: Computer: DESKTOP-FMI2DVN
+[2020.07.15-09.43.33:053][  0]LogInit: User: More
+[2020.07.15-09.43.33:053][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.15-09.43.33:053][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.15-09.43.33:054][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.15-09.43.33:054][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.15-09.43.33:054][  0]LogMemory: Process Physical Memory: 104.52 MB used, 104.52 MB peak
+[2020.07.15-09.43.33:054][  0]LogMemory: Process Virtual Memory: 99.63 MB used, 99.64 MB peak
+[2020.07.15-09.43.33:054][  0]LogMemory: Physical Memory: 6698.92 MB used,  1368.16 MB free, 8067.07 MB total
+[2020.07.15-09.43.33:054][  0]LogMemory: Virtual Memory: 5086.89 MB used,  134212640.00 MB free, 134217728.00 MB total
+[2020.07.15-09.43.33:065][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.15-09.43.33:185][  0]LogInit: Using OS detected language (ru-RU).
+[2020.07.15-09.43.33:185][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.07.15-09.43.33:189][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.07.15-09.43.33:190][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.07.15-09.43.33:191][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.07.15-09.43.33:191][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.07.15-09.43.33:191][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.07.15-09.43.33:192][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.07.15-09.43.33:192][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.07.15-09.43.33:192][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.07.15-09.43.33:198][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.15-09.43.33:261][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.15-09.43.33:261][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.15-09.43.33:874][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.07.15-09.43.33:874][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.15-09.43.33:874][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.15-09.43.33:874][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.15-09.43.34:051][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.07.15-09.43.34:052][  0]LogD3D11RHI:       4021/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.15-09.43.34:069][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.07.15-09.43.34:070][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.15-09.43.34:075][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.15-09.43.34:075][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.15-09.43.34:075][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.15-09.43.34:154][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.15-09.43.34:154][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.07.15-09.43.34:154][  0]LogWindows: EnumDisplayDevices:
+[2020.07.15-09.43.34:154][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.07.15-09.43.34:155][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.07.15-09.43.34:156][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.07.15-09.43.34:156][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.07.15-09.43.34:156][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.07.15-09.43.34:156][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.07.15-09.43.34:156][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.07.15-09.43.34:156][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.07.15-09.43.34:223][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.15-09.43.34:224][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.15-09.43.34:349][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.15-09.43.35:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.15-09.43.35:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.15-09.43.35:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.15-09.43.35:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.15-09.43.35:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.15-09.43.35:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.15-09.43.35:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.15-09.43.35:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.15-09.43.35:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.15-09.43.35:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.15-09.43.35:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.15-09.43.35:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.15-09.43.35:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.15-09.43.35:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.15-09.43.35:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.15-09.43.35:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.15-09.43.35:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.15-09.43.35:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.15-09.43.35:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.15-09.43.35:637][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.15-09.43.35:651][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.15-09.43.35:735][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Intermediate/Shaders/WorkingDirectory/22868/).
+[2020.07.15-09.43.35:735][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mbaka/AppData/Local/Temp/UnrealShaderWorkingDir/6DC77A894E1C21B756EB78A0C347C336/'.
+[2020.07.15-09.43.35:737][  0]LogXGEController: Cleaning working directory: C:/Users/mbaka/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.07.15-09.43.35:738][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.15-09.43.35:738][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.15-09.43.35:738][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.15-09.43.37:201][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.15-09.43.37:413][  0]LogDerivedDataCache: Loaded boot cache 0.21s 78MB C:/Users/mbaka/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.15-09.43.37:413][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mbaka/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.15-09.43.37:413][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.15-09.43.37:413][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.15-09.43.37:413][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.15-09.43.37:413][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.15-09.43.37:433][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.15-09.43.37:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.15-09.43.37:434][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.15-09.43.37:471][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mbaka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.15-09.43.37:471][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.15-09.43.37:471][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.15-09.43.37:537][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.15-09.43.37:546][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.15-09.43.37:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.15-09.43.37:796][  0]LogAssetRegistry: FAssetRegistry took 0.0424 seconds to start up
+[2020.07.15-09.43.38:573][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.15-09.43.38:986][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.15-09.43.38:986][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.15-09.43.38:986][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.15-09.43.38:986][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.15-09.43.38:986][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.15-09.43.39:048][  0]LogNetVersion: Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2973166357)
+[2020.07.15-09.43.42:663][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.071063 seconds
+[2020.07.15-09.43.42:674][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.15-09.43.42:674][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.15-09.43.42:674][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.15-09.43.43:643][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.15-09.43.43:651][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.15-09.43.43:793][  0]SourceControl: Source control is disabled
+[2020.07.15-09.43.43:794][  0]SourceControl: Source control is disabled
+[2020.07.15-09.43.43:803][  0]SourceControl: Source control is disabled
+[2020.07.15-09.43.43:808][  0]SourceControl: Source control is disabled
+[2020.07.15-09.43.43:812][  0]SourceControl: Source control is disabled
+[2020.07.15-09.43.44:059][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.15-09.43.44:083][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.15-09.43.44:083][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.15-09.43.44:240][  0]LogOcInput: OculusInput pre-init called
+[2020.07.15-09.43.44:257][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.15-09.43.44:257][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.15-09.43.44:478][  0]LogEngine: Initializing Engine...
+[2020.07.15-09.43.44:546][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.07.15-09.43.44:551][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.07.15-09.43.45:130][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.15-09.43.45:185][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.15-09.43.45:200][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.15-09.43.45:201][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.15-09.43.45:201][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.15-09.43.45:201][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.15-09.43.45:201][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.15-09.43.45:201][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.15-09.43.45:201][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.15-09.43.45:201][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.15-09.43.45:204][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.15-09.43.45:204][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.15-09.43.45:237][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.15-09.43.45:306][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.07.15-09.43.45:316][  0]LogInit: FAudioDevice initialized.
+[2020.07.15-09.43.45:318][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.15-09.43.45:414][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/mbaka/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.15-09.43.45:416][  0]LogInit: Texture streaming: Enabled
+[2020.07.15-09.43.45:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.15-09.43.45:446][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.15-09.43.45:460][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.15-09.43.45:875][  0]LogInit: Transaction tracking system initialized
+[2020.07.15-09.43.45:920][  0]BlueprintLog: New page: Editor Load
+[2020.07.15-09.43.46:048][  0]LocalizationService: Localization service is disabled
+[2020.07.15-09.43.46:770][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.15-09.43.46:770][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.15-09.43.47:070][  0]LogFileCache: Scanning file cache for directory 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/' took 0.21s
+[2020.07.15-09.43.48:305][  0]SourceControl: Source control is disabled
+[2020.07.15-09.43.48:311][  0]Cmd: MAP LOAD FILE="D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-09.43.48:454][  0]LightingResults: New page: Lighting Build
+[2020.07.15-09.43.48:468][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-09.43.48:472][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.15-09.43.48:474][  0]MapCheck: New page: Map Check
+[2020.07.15-09.43.48:474][  0]LightingResults: New page: Lighting Build
+[2020.07.15-09.43.50:715][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.07.15-09.43.50:983][  0]LogLinker: Warning: While loading 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.50:983][  0]LogLinker: Warning: While loading 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:336][  0]LogLinker: Warning: While loading 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:336][  0]LogLinker: Warning: While loading 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:366][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:366][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:366][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:367][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:375][  0]LogLinker: Warning: While loading 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:376][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2020.07.15-09.43.51:376][  0]LogLinker: Warning: While loading 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2020.07.15-09.43.51:376][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2020.07.15-09.43.51:721][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.07.15-09.43.51:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-09.43.51:933][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.07.15-09.43.51:944][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-09.43.51:947][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,168ms to complete.
+[2020.07.15-09.43.51:949][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.640
+[2020.07.15-09.43.52:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-09.43.52:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-09.43.52:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-09.43.52:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.15-09.43.52:675][  0]LogCollectionManager: Loaded 0 collections in 0.007608 seconds
+[2020.07.15-09.43.52:771][  0]LogFileCache: Scanning file cache for directory 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Collections/' took 0.00s
+[2020.07.15-09.43.52:771][  0]LogFileCache: Scanning file cache for directory 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/Developers/More/Collections/' took 0.01s
+[2020.07.15-09.43.52:771][  0]LogFileCache: Scanning file cache for directory 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/Collections/' took 0.00s
+[2020.07.15-09.43.52:771][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 3015 classes and 717 folders.
+[2020.07.15-09.43.52:807][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.15-09.43.53:093][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.15-09.43.53:108][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.07.15-09.43.53:287][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.15-09.43.53:287][  0]LogLoad: (Engine Initialization) Total time: 27.20 seconds
+[2020.07.15-09.43.53:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.15-09.43.53:446][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.15-09.43.53:562][  0]LogSlate: Took 0.001105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.15-09.43.53:566][  0]LogSlate: Took 0.001016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.15-09.43.53:576][  0]LogSlate: Took 0.000781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.15-09.43.53:825][  0]LogRenderer: Reallocating scene render targets to support 928x392 Format 10 NumSamples 1 (Frame:1).
+[2020.07.15-09.43.53:825][  0]LogSlate: Took 0.000700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-09.43.53:918][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/' took 0.54s
+[2020.07.15-09.43.54:760][  5]LogAssetRegistry: Asset discovery search completed in 16.9991 seconds
+[2020.07.15-09.43.54:769][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.07.15-09.43.55:735][  8]LogSlate: Window 'Message Log' being destroyed
+[2020.07.15-09.43.55:738][  8]LogSlate: Window 'Message Log' being destroyed
+[2020.07.15-09.44.39:012][210]LogSlate: Took 0.000738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.15-09.44.40:384][210]LogAIModule: Creating AISystem for world Ballista
+[2020.07.15-09.44.40:408][210]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Walker/Ballista/Ballista.Ballista
+[2020.07.15-09.44.40:453][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.15-09.44.40:466][210]Cmd: MAP LOAD FILE="D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Content/Walker/Ballista/Ballista.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.15-09.44.40:467][210]LightingResults: New page: Lighting Build
+[2020.07.15-09.44.40:477][210]LoadErrors: New page: Loading map: Ballista.umap
+[2020.07.15-09.44.40:489][210]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-09.44.40:491][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.15-09.44.40:491][210]MapCheck: New page: Map Check
+[2020.07.15-09.44.40:491][210]LightingResults: New page: Lighting Build
+[2020.07.15-09.44.40:543][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.15-09.44.40:579][210]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.15-09.44.40:622][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.07.15-09.44.40:659][210]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.15-09.44.40:660][210]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,107ms to complete.
+[2020.07.15-09.44.40:661][210]LogFileHelpers: Loading map 'Ballista' took 0.206
+[2020.07.15-09.44.47:896][511]Cmd: DELETE
+[2020.07.15-09.44.47:897][511]Cmd: ACTOR DELETE
+[2020.07.15-09.44.47:923][511]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.07.15-09.44.47:955][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.15-09.44.47:957][511]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.07.15-09.44.50:335][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.15-09.44.52:358][611]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.15-09.44.55:889][611]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Walker/Ballista/Meshes/ballista16_Skeleton.ballista16_Skeleton
+	Asset Name: /Game/Walker/Ballista/Meshes/09_-_Default.09_-_Default
+	Asset Name: /Game/Walker/Ballista/Meshes/13_-_Default.13_-_Default
+	Asset Name: /Game/Walker/Ballista/Meshes/14_-_Default.14_-_Default
+	Asset Name: /Game/Walker/Ballista/Meshes/15_-_Default.15_-_Default
+	Asset Name: /Game/Walker/Ballista/Meshes/19_-_Default.19_-_Default
+	Asset Name: /Game/Walker/Ballista/Meshes/ballista16.ballista16
+	Asset Name: /Game/Walker/Ballista/Meshes/ballista16_PhysicsAsset.ballista16_PhysicsAsset
+[2020.07.15-09.45.05:325][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.07.15-09.45.05:474][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.07.15-09.45.05:596][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.15-09.45.05:687][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.07.15-09.45.05:804][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.07.15-09.45.05:876][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.07.15-09.45.05:919][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.07.15-09.45.06:139][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.07.15-09.45.06:255][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.07.15-09.45.06:326][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.07.15-09.47.09:086][ 29]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/универ/IT Lab/баллиста/ballista17.FBX)
+[2020.07.15-09.47.09:475][ 29]LogFbx: Loading FBX Scene from D:/универ/IT Lab/баллиста/ballista17.FBX
+[2020.07.15-09.47.10:694][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.15-09.47.26:638][ 29]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.15-09.47.27:578][ 29]LogMaterial: Display: Material /Game/Walker/Ballista/Meshes/09_-_Default.09_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.15-09.47.27:606][ 29]LogMaterial: Display: Missing cached shader map for material 09_-_Default, compiling. 
+[2020.07.15-09.47.27:738][ 29]LogMaterial: Display: Missing cached shader map for material 09_-_Default, compiling. 
+[2020.07.15-09.47.27:788][ 29]LogMaterial: Display: Material /Game/Walker/Ballista/Meshes/14_-_Default.14_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.15-09.47.27:801][ 29]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.07.15-09.47.27:801][ 29]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2020.07.15-09.47.27:801][ 29]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.07.15-09.47.27:801][ 29]LogMaterial: Display: Missing cached shader map for material 14_-_Default, compiling. 
+[2020.07.15-09.47.27:926][ 29]LogMaterial: Display: Missing cached shader map for material 14_-_Default, compiling. 
+[2020.07.15-09.47.27:998][ 29]LogMaterial: Display: Material /Game/Walker/Ballista/Meshes/19_-_Default.19_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.15-09.47.28:038][ 29]LogMaterial: Display: Missing cached shader map for material 19_-_Default, compiling. 
+[2020.07.15-09.47.28:173][ 29]LogMaterial: Display: Missing cached shader map for material 19_-_Default, compiling. 
+[2020.07.15-09.47.28:262][ 29]LogMaterial: Display: Material /Game/Walker/Ballista/Meshes/13_-_Default.13_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.15-09.47.28:270][ 29]LogMaterial: Display: Missing cached shader map for material 13_-_Default, compiling. 
+[2020.07.15-09.47.28:349][ 29]LogMaterial: Display: Missing cached shader map for material 13_-_Default, compiling. 
+[2020.07.15-09.47.28:429][ 29]LogMaterial: Display: Material /Game/Walker/Ballista/Meshes/15_-_Default.15_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2020.07.15-09.47.28:436][ 29]LogMaterial: Display: Missing cached shader map for material 15_-_Default, compiling. 
+[2020.07.15-09.47.28:520][ 29]LogMaterial: Display: Missing cached shader map for material 15_-_Default, compiling. 
+[2020.07.15-09.47.28:708][ 29]LogFbx: Warning: Bones digested - 11  Depth of hierarchy - 2
+[2020.07.15-09.47.29:062][ 29]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.07.15-09.47.31:143][ 29]LogSkeletalMesh: Section 0: 4094 vertices, 6 active bones
+[2020.07.15-09.47.31:143][ 29]LogSkeletalMesh: Section 1: 2095 vertices, 4 active bones
+[2020.07.15-09.47.31:143][ 29]LogSkeletalMesh: Section 2: 908 vertices, 3 active bones
+[2020.07.15-09.47.31:148][ 29]LogSkeletalMesh: Section 3: 15470 vertices, 4 active bones
+[2020.07.15-09.47.31:149][ 29]LogSkeletalMesh: Section 4: 36 vertices, 1 active bones
+[2020.07.15-09.47.31:158][ 29]LogSkeletalMesh: Section 0: Material=0, 2674 triangles
+[2020.07.15-09.47.31:158][ 29]LogSkeletalMesh: Section 1: Material=1, 2716 triangles
+[2020.07.15-09.47.31:158][ 29]LogSkeletalMesh: Section 2: Material=2, 1516 triangles
+[2020.07.15-09.47.31:158][ 29]LogSkeletalMesh: Section 3: Material=3, 18116 triangles
+[2020.07.15-09.47.31:158][ 29]LogSkeletalMesh: Section 4: Material=4, 32 triangles
+[2020.07.15-09.47.31:332][ 29]LogSkeletalMesh: Building Skeletal Mesh ballista17...
+[2020.07.15-09.47.31:560][ 29]LogSkeletalMesh: Warning: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.07.15-09.47.33:181][ 29]LogSkeletalMesh: Section 0: 4094 vertices, 6 active bones
+[2020.07.15-09.47.33:181][ 29]LogSkeletalMesh: Section 1: 2095 vertices, 4 active bones
+[2020.07.15-09.47.33:181][ 29]LogSkeletalMesh: Section 2: 908 vertices, 3 active bones
+[2020.07.15-09.47.33:190][ 29]LogSkeletalMesh: Section 3: 15470 vertices, 4 active bones
+[2020.07.15-09.47.33:190][ 29]LogSkeletalMesh: Section 4: 36 vertices, 1 active bones
+[2020.07.15-09.47.33:196][ 29]LogSkeletalMesh: Section 0: Material=0, 2674 triangles
+[2020.07.15-09.47.33:197][ 29]LogSkeletalMesh: Section 1: Material=1, 2716 triangles
+[2020.07.15-09.47.33:197][ 29]LogSkeletalMesh: Section 2: Material=2, 1516 triangles
+[2020.07.15-09.47.33:197][ 29]LogSkeletalMesh: Section 3: Material=3, 18116 triangles
+[2020.07.15-09.47.33:197][ 29]LogSkeletalMesh: Section 4: Material=4, 32 triangles
+[2020.07.15-09.47.33:357][ 29]LogSkeletalMesh: Built Skeletal Mesh [2.03s] /Game/Walker/Ballista/Meshes/ballista17.ballista17
+[2020.07.15-09.47.33:376][ 29]LogLinker: Failed to load '/Game/Walker/Ballista/Meshes/ballista17_Skeleton': Can't find file.
+[2020.07.15-09.47.33:377][ 29]LogLinker: Failed to load '/Game/Walker/Ballista/Meshes/ballista17_Skeleton': Can't find file.
+[2020.07.15-09.47.33:383][ 29]LogLinker: Failed to load '/Game/Walker/Ballista/Meshes/ballista17_PhysicsAsset': Can't find file.
+[2020.07.15-09.47.33:384][ 29]LogLinker: Failed to load '/Game/Walker/Ballista/Meshes/ballista17_PhysicsAsset': Can't find file.
+[2020.07.15-09.47.33:481][ 29]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-09.47.33:482][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.15-09.47.33:582][ 29]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.07.15-09.48.27:380][194]LogSlate: Window 'Message Log' being destroyed
+[2020.07.15-09.48.27:413][194]LogSlate: Window 'Message Log' being destroyed
+[2020.07.15-09.48.31:968][332]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.15-09.48.38:119][520]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.15-09.48.45:062][656]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.15-09.50.21:448][950]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 165
+[2020.07.15-09.51.27:285][420]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 155
+[2020.07.15-09.51.29:254][506]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ballista17_PhysicsAsset)
+[2020.07.15-09.51.54:517][580]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 145
+[2020.07.15-09.51.55:317][583]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 135
+[2020.07.15-09.53.04:804][775]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 125
+[2020.07.15-09.53.10:848][790]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 115
+[2020.07.15-09.53.25:517][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 105
+[2020.07.15-09.54.48:895][ 39]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 95
+[2020.07.15-09.55.15:261][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2020.07.15-09.55.22:401][124]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 75
+[2020.07.15-09.55.46:227][187]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2020.07.15-09.56.21:462][494]MapCheck: New page: Map Check
+[2020.07.15-09.56.21:536][494]LightingResults: New page: Lighting Build - 15 июл. 2020 г., 13:56:21
+[2020.07.15-09.56.21:899][494]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.15-09.56.22:057][494]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.15-09.56.22:104][494]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.15-09.56.23:877][494]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.15-09.56.23:877][494]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22868
+[2020.07.15-09.56.32:303][494]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.15-09.56.32:305][494]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.15-09.56.32:305][494]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.15-09.56.32:306][494]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.15-09.56.32:306][494]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.15-09.56.32:306][494]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.15-09.56.32:947][494]LogEditorBuildUtils: Build time 0:11
+[2020.07.15-09.56.34:983][495]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2020.07.15-09.59.02:623][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.15-09.59.02:624][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.07.15-09.59.02:787][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.07.15-09.59.05:043][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Ballista_Auto1A376F1AA456921D76EBABFBA40213ECB.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Ballista_Auto1.umap'
+[2020.07.15-09.59.05:058][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Walker/Ballista/Ballista' took 2.322
+[2020.07.15-09.59.05:059][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.322
+[2020.07.15-09.59.05:059][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/ballista17] ([1] browsable assets)...
+[2020.07.15-09.59.05:090][496]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Walker/Ballista/Meshes/ballista17.ballista17]
+[2020.07.15-09.59.05:090][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/ballista17]
+[2020.07.15-09.59.05:267][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/ballista17_Auto1D523A51143C3C2B2D23300A0357431CC.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/ballista17_Auto1.uasset'
+[2020.07.15-09.59.05:286][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/09_-_Default] ([1] browsable assets)...
+[2020.07.15-09.59.05:311][496]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Walker/Ballista/Meshes/09_-_Default.09_-_Default]
+[2020.07.15-09.59.05:311][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/09_-_Default]
+[2020.07.15-09.59.05:322][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/09_-_Default_Auto17232AB2A4B325EB0F534E4AC9D9CFDE7.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/09_-_Default_Auto1.uasset'
+[2020.07.15-09.59.05:347][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/14_-_Default] ([1] browsable assets)...
+[2020.07.15-09.59.05:372][496]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Walker/Ballista/Meshes/14_-_Default.14_-_Default]
+[2020.07.15-09.59.05:372][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/14_-_Default]
+[2020.07.15-09.59.05:386][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/14_-_Default_Auto17C8E3E774048C5FE5A5E4C8FCA87B1B9.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/14_-_Default_Auto1.uasset'
+[2020.07.15-09.59.05:418][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/19_-_Default] ([1] browsable assets)...
+[2020.07.15-09.59.05:443][496]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Walker/Ballista/Meshes/19_-_Default.19_-_Default]
+[2020.07.15-09.59.05:443][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/19_-_Default]
+[2020.07.15-09.59.05:455][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/19_-_Default_Auto1F1A4AB444B223F1854F168B78BCF6794.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/19_-_Default_Auto1.uasset'
+[2020.07.15-09.59.05:480][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/13_-_Default] ([1] browsable assets)...
+[2020.07.15-09.59.05:506][496]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Walker/Ballista/Meshes/13_-_Default.13_-_Default]
+[2020.07.15-09.59.05:506][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/13_-_Default]
+[2020.07.15-09.59.05:518][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/13_-_Default_Auto19C9312834C57A81B8EEE25B754841442.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/13_-_Default_Auto1.uasset'
+[2020.07.15-09.59.05:519][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/15_-_Default] ([1] browsable assets)...
+[2020.07.15-09.59.05:544][496]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Walker/Ballista/Meshes/15_-_Default.15_-_Default]
+[2020.07.15-09.59.05:545][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/15_-_Default]
+[2020.07.15-09.59.05:556][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/15_-_Default_Auto183A0C4CE4370D56A692C739C766F7C73.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/15_-_Default_Auto1.uasset'
+[2020.07.15-09.59.05:558][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Walker/Ballista/Meshes/ballista17_Skeleton] ([1] browsable assets)...
+[2020.07.15-09.59.05:558][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/ballista17_Skeleton]
+[2020.07.15-09.59.05:560][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/ballista17_Skeleton_Auto1765743D9406232A6B8D16BBCFCE55E2D.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/ballista17_Skeleton_Auto1.uasset'
+[2020.07.15-09.59.05:561][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Walker/Ballista/Meshes/ballista17_PhysicsAsset] ([1] browsable assets)...
+[2020.07.15-09.59.05:587][496]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Walker/Ballista/Meshes/ballista17_PhysicsAsset.ballista17_PhysicsAsset]
+[2020.07.15-09.59.05:587][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walker/Ballista/Meshes/ballista17_PhysicsAsset]
+[2020.07.15-09.59.05:603][496]LogSavePackage: Moving 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/ballista17_PhysicsAsset_Auto14EBDA8E04F9A7661459FEDA3839BC5A2.tmp' to 'D:/универ/IT Lab/баллиста/3DModels-UnrealEngine-master/3DModels-UnrealEngine/Project/Saved/Autosaves/Game/Walker/Ballista/Meshes/ballista17_PhysicsAsset_Auto1.uasset'
+[2020.07.15-09.59.05:603][496]LogFileHelpers: Auto-saving content packages took 0.544
+[2020.07.15-09.59.05:739][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.07.15-09.59.07:341][519]Job is a success!
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.15-09.59.07:966][520]LogVolumetricLightmapImport:          Ballista 			 6 bricks 	 100.0% (Persistent Level)
+[2020.07.15-09.59.08:153][520]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2020.07.15-09.59.08:154][520]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X128)
+[2020.07.15-09.59.08:154][520]Lightmass on DESKTOP-FMI2DVN: 1.61 sec total, 148 ms importing, 16 ms setup, 118 ms photons, 1.29 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 5.12 sec total, 587 ms processing.
+[2020.07.15-09.59.08:154][520]LogStaticLightingSystem: Ballista_BuiltData storing lightmap data for 4 meshes in 2 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.07.15-09.59.08:183][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.15-09.59.08:193][520]LogStaticLightingSystem: Illumination: 2:46 min (134 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2020.07.15-09.59.08:194][520]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.07.15-09.59.08:194][520]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.07.15-09.59.08:971][520]DumpUnbuiltLightIteractions
+[2020.07.15-09.59.08:971][520]Lights with unbuilt interactions: 0
+[2020.07.15-09.59.08:971][520]
+[2020.07.15-09.59.08:971][520]Primitives with unbuilt interactions: 0
+[2020.07.15-09.59.09:103][521]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.15-09.59.09:104][521]MapCheck: New page: Ballista - 15 июл. 2020 г., 13:59:09
+[2020.07.15-09.59.09:112][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7,569ms to complete.
+[2020.07.15-10.00.26:798][395]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Walker/Ballista/Materials/mat_metall4.mat_metall4
+[2020.07.15-10.00.26:811][395]LogMaterial: Display: Missing cached shader map for material mat_metall4, compiling. 
+[2020.07.15-10.00.26:859][395]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.07.15-10.00.26:859][395]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.07.15-10.00.26:859][395]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.07.15-10.00.27:485][395]LogMaterial: Display: Missing cached shader map for material mat_metall4, compiling. 
+[2020.07.15-10.00.27:525][395]LogMaterial: Display: Missing cached shader map for material mat_metall4, compiling. 
+[2020.07.15-10.00.27:590][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.15-10.00.27:609][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.15-10.00.27:627][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.15-10.00.27:707][395]LogSlate: Took 0.000809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.15-10.00.29:420][434]LogSlate: Window 'mat_metall4' being destroyed
+[2020.07.15-10.00.29:550][434]LogSlate: Window 'mat_metall4' being destroyed
+[2020.07.15-10.00.29:579][434]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-10.00.29:579][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.15-10.01.21:062][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.07.15-10.02.19:475][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.07.15-10.02.25:447][104]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.07.15-10.02.35:862][117]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.07.15-10.02.40:042][125]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.07.15-10.02.48:835][132]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.07.15-10.02.55:755][145]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.15-10.02.59:301][149]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.07.15-10.03.05:219][154]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.07.15-10.03.11:459][166]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.07.15-10.03.11:898][168]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.07.15-10.03.13:415][174]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.07.15-10.03.19:126][189]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.15-10.03.20:467][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.07.15-10.03.21:067][194]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.07.15-10.03.25:992][207]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.07.15-10.03.27:032][211]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.07.15-10.03.30:382][217]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.07.15-10.03.37:839][227]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.15-10.03.38:324][230]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.07.15-10.03.38:605][231]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.07.15-10.03.43:063][245]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.07.15-10.03.44:266][249]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.07.15-10.03.46:745][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.07.15-10.04.01:336][319]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.07.15-10.04.01:500][320]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.07.15-10.04.06:051][325]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.07.15-10.09.08:534][288]LogUObjectHash: Compacting FUObjectHashTables data took  99.89ms
+[2020.07.15-10.09.08:646][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Walker/Ballista/Ballista' took 0.483
+[2020.07.15-10.10.31:207][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/универ/IT Lab/баллиста/textures9/xballista17_14 - Default_BaseColor.png)
+[2020.07.15-10.10.31:796][561]LogTexture: Display: Building textures: xballista17_14_-_Default_BaseColor (AutoDXT, 4096X4096)
+[2020.07.15-10.10.33:493][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/универ/IT Lab/баллиста/textures9/xballista17_14 - Default_Normal.png)
+[2020.07.15-10.10.34:091][561]LogTexture: Display: Building textures: xballista17_14_-_Default_Normal (BC5, 4096X4096)
+[2020.07.15-10.10.36:154][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/универ/IT Lab/баллиста/textures9/xballista17_14 - Default_OcclusionRoughnessMetallic.tga)
+[2020.07.15-10.10.36:580][561]LogTexture: Display: Building textures: xballista17_14_-_Default_OcclusionRoughnessMetallic (BC5, 4096X4096)
+[2020.07.15-10.10.45:775][804]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Walker/Ballista/Materials/mat_metall4.mat_metall4
+[2020.07.15-10.10.45:794][804]LogMaterial: Display: Missing cached shader map for material mat_metall4, compiling. 
+[2020.07.15-10.10.46:191][804]LogMaterial: Display: Missing cached shader map for material mat_metall4, compiling. 
+[2020.07.15-10.10.46:237][804]LogMaterial: Display: Missing cached shader map for material mat_metall4, compiling. 
+[2020.07.15-10.10.46:294][804]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2020.07.15-10.10.46:294][804]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2020.07.15-10.10.46:294][804]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2020.07.15-10.10.46:303][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.07.15-10.10.46:327][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.07.15-10.10.46:347][804]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.07.15-10.11.31:690][801]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2020.07.15-10.11.42:277][901]LogSlate: Window 'mat_metall4' being destroyed
+[2020.07.15-10.11.42:289][901]LogSlate: Window 'mat_metall4' being destroyed
+[2020.07.15-10.11.42:327][901]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.15-10.11.42:327][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.15-10.12.10:027][659]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ballista17_PhysicsAsset)
+[2020.07.15-10.12.10:460][675]LogEditorViewport: Clicking Background
+[2020.07.15-10.12.10:560][678]LogEditorViewport: Clicking Background
+[2020.07.15-10.12.21:974][132]LogEditorViewport: Clicking Background
+[2020.07.15-10.12.27:230][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.07.15-10.12.28:626][286]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.15-10.12.28:939][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.15-10.12.30:608][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.07.15-10.12.31:793][347]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.15-10.12.31:967][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.07.15-10.12.32:925][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.07.15-10.12.33:534][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.07.15-10.12.33:910][379]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.15-10.12.34:102][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.15-10.12.38:833][515]LogEditorViewport: Clicking Background
+[2020.07.15-10.12.41:256][535]LogEditorViewport: Clicking Background
+[2020.07.15-10.12.54:822][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.15-10.13.17:528][693]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.07.15-10.13.19:648][773]Cmd: DELETE
+[2020.07.15-10.13.19:648][773]Cmd: ACTOR DELETE
+[2020.07.15-10.13.19:697][773]LogEditorActor: Deleted Actor: PointLight
+[2020.07.15-10.13.19:728][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.07.15-10.13.19:733][773]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2020.07.15-10.13.22:010][793]Cmd: DELETE
+[2020.07.15-10.13.22:010][793]Cmd: ACTOR DELETE
+[2020.07.15-10.13.22:011][793]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.07.15-10.13.22:047][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.15-10.13.22:049][793]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.07.15-10.13.30:933][989]MapCheck: New page: Map Check
+[2020.07.15-10.13.31:009][989]LightingResults: New page: Lighting Build - 15 июл. 2020 г., 14:13:31
+[2020.07.15-10.13.31:227][989]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.15-10.13.31:239][989]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.15-10.13.31:245][989]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.15-10.13.31:257][989]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.15-10.13.31:258][989]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22868
+[2020.07.15-10.13.35:847][989]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.15-10.13.35:848][989]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.15-10.13.35:848][989]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.15-10.13.35:848][989]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.15-10.13.35:848][989]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.15-10.13.35:849][989]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.15-10.13.36:467][989]LogEditorBuildUtils: Build time 0:05
