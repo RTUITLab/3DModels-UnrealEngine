@@ -1,0 +1,1242 @@
+﻿Log file open, 06/05/21 19:23:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.058442
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program files (x86)/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.05-16.23.18:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:062][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.05-16.23.18:064][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.06.05-16.23.18:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.06.05-16.23.18:065][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.05-16.23.18:065][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.05-16.23.18:067][  0]LogHAL: Display: Platform has ~ 32 GB [34287718400 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.05-16.23.18:067][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.05-16.23.18:067][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.05-16.23.18:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Scalability.ini]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.05-16.23.18:068][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Config/Windows/Engine.ini]
+[2021.06.05-16.23.18:068][  0]LogInit: Computer: DESKTOP-ON347R9
+[2021.06.05-16.23.18:068][  0]LogInit: User: VANO
+[2021.06.05-16.23.18:068][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.05-16.23.18:068][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.05-16.23.18:068][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.06.05-16.23.18:068][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.05-16.23.18:068][  0]LogMemory: Process Physical Memory: 106.97 MB used, 106.97 MB peak
+[2021.06.05-16.23.18:068][  0]LogMemory: Process Virtual Memory: 102.40 MB used, 102.40 MB peak
+[2021.06.05-16.23.18:068][  0]LogMemory: Physical Memory: 9803.81 MB used,  22895.51 MB free, 32699.32 MB total
+[2021.06.05-16.23.18:068][  0]LogMemory: Virtual Memory: 5181.18 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.06.05-16.23.18:070][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.05-16.23.18:098][  0]LogInit: Using OS detected language (ru-RU).
+[2021.06.05-16.23.18:098][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.06.05-16.23.18:098][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.06.05-16.23.18:099][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.05-16.23.18:122][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.05-16.23.18:122][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.05-16.23.18:213][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.05-16.23.18:213][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.05-16.23.18:213][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.05-16.23.18:213][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.05-16.23.18:322][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.06.05-16.23.18:322][  0]LogD3D11RHI:       8011/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.05-16.23.18:324][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.05-16.23.18:324][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.05-16.23.18:324][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.05-16.23.18:329][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.05-16.23.18:329][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.05-16.23.18:330][  0]LogWindows: EnumDisplayDevices:
+[2021.06.05-16.23.18:330][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.06.05-16.23.18:330][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.06.05-16.23.18:330][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.06.05-16.23.18:330][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.06.05-16.23.18:330][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.05-16.23.18:330][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.06.05-16.23.18:330][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.06.05-16.23.18:330][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.06.05-16.23.18:330][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.06.05-16.23.18:395][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.05-16.23.18:395][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.05-16.23.18:416][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.06.05-16.23.18:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.05-16.23.18:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.05-16.23.18:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.05-16.23.18:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.05-16.23.18:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.05-16.23.18:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.05-16.23.18:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.05-16.23.18:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.05-16.23.18:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.05-16.23.18:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.05-16.23.18:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.05-16.23.18:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.05-16.23.18:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.05-16.23.18:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.05-16.23.18:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.05-16.23.18:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.05-16.23.18:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.05-16.23.18:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.05-16.23.18:750][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.05-16.23.18:752][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.05-16.23.18:766][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Intermediate/Shaders/WorkingDirectory/580/).
+[2021.06.05-16.23.18:766][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VANO/AppData/Local/Temp/UnrealShaderWorkingDir/117D2804484DD7565756FD9265F379FC/'.
+[2021.06.05-16.23.18:766][  0]LogXGEController: Cleaning working directory: C:/Users/VANO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.05-16.23.18:766][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.06.05-16.23.18:766][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.05-16.23.18:766][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.05-16.23.19:283][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.05-16.23.19:325][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/VANO/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.06.05-16.23.19:325][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VANO/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.06.05-16.23.19:325][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.05-16.23.19:325][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.05-16.23.19:325][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.05-16.23.19:325][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.05-16.23.19:333][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.05-16.23.19:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.05-16.23.19:333][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.05-16.23.19:334][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VANO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.05-16.23.19:334][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.05-16.23.19:334][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.05-16.23.19:358][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.05-16.23.19:360][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.05-16.23.19:361][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.05-16.23.19:403][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.06.05-16.23.19:611][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.05-16.23.19:723][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.05-16.23.19:723][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.05-16.23.19:723][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.05-16.23.19:723][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.05-16.23.19:723][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.05-16.23.19:731][  0]LogNetVersion: Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2973166357)
+[2021.06.05-16.23.20:436][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.019568 seconds
+[2021.06.05-16.23.20:442][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.06.05-16.23.20:442][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.06.05-16.23.20:442][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.05-16.23.20:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.05-16.23.20:706][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.05-16.23.20:738][  0]SourceControl: Source control is disabled
+[2021.06.05-16.23.20:738][  0]SourceControl: Source control is disabled
+[2021.06.05-16.23.20:738][  0]SourceControl: Source control is disabled
+[2021.06.05-16.23.20:739][  0]SourceControl: Source control is disabled
+[2021.06.05-16.23.20:739][  0]SourceControl: Source control is disabled
+[2021.06.05-16.23.20:788][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.05-16.23.20:793][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.05-16.23.20:793][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.05-16.23.20:852][  0]LogOcInput: OculusInput pre-init called
+[2021.06.05-16.23.20:857][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.05-16.23.20:857][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.05-16.23.20:904][  0]LogEngine: Initializing Engine...
+[2021.06.05-16.23.20:904][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.05-16.23.20:905][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.05-16.23.21:139][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.05-16.23.21:143][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-16.23.21:159][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-16.23.21:159][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-16.23.21:159][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Name: Динамики (USB Audio Device)
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: Channel Order:
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-16.23.21:187][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-16.23.21:203][  0]LogAudioMixer: Display: Using Audio Device Динамики (USB Audio Device)
+[2021.06.05-16.23.21:208][  0]LogInit: FAudioDevice initialized.
+[2021.06.05-16.23.21:208][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.05-16.23.21:271][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/VANO/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.06.05-16.23.21:272][  0]LogInit: Texture streaming: Enabled
+[2021.06.05-16.23.21:278][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.05-16.23.21:278][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.05-16.23.21:279][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.05-16.23.21:304][  0]LogInit: Transaction tracking system initialized
+[2021.06.05-16.23.21:310][  0]BlueprintLog: New page: Editor Load
+[2021.06.05-16.23.21:333][  0]LocalizationService: Localization service is disabled
+[2021.06.05-16.23.21:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/' took 0.00s
+[2021.06.05-16.23.21:520][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.05-16.23.21:520][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.05-16.23.21:976][  0]SourceControl: Source control is disabled
+[2021.06.05-16.23.21:976][  0]Cmd: MAP LOAD FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.05-16.23.21:976][  0]LightingResults: New page: Lighting Build
+[2021.06.05-16.23.21:976][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.23.21:976][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-16.23.21:976][  0]MapCheck: New page: Map Check
+[2021.06.05-16.23.21:976][  0]LightingResults: New page: Lighting Build
+[2021.06.05-16.23.22:001][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.06.05-16.23.22:038][  0]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:038][  0]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:046][  0]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:046][  0]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:048][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:049][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:049][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:049][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:051][  0]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:051][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.06.05-16.23.22:051][  0]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/StarterContent/Maps/Minimal_Default.umap' failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.06.05-16.23.22:051][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.06.05-16.23.22:131][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.06.05-16.23.22:134][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.05-16.23.22:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.06.05-16.23.22:162][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.05-16.23.22:162][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2021.06.05-16.23.22:162][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.187
+[2021.06.05-16.23.22:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-16.23.22:281][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-16.23.22:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-16.23.22:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-16.23.22:294][  0]LogCollectionManager: Loaded 0 collections in 0.000567 seconds
+[2021.06.05-16.23.22:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Collections/' took 0.00s
+[2021.06.05-16.23.22:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Developers/VANO/Collections/' took 0.00s
+[2021.06.05-16.23.22:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Collections/' took 0.00s
+[2021.06.05-16.23.22:305][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 3015 classes and 717 folders.
+[2021.06.05-16.23.22:307][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.05-16.23.22:338][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.05-16.23.22:341][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.06.05-16.23.22:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.05-16.23.22:360][  0]LogLoad: (Engine Initialization) Total time: 5.07 seconds
+[2021.06.05-16.23.22:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.05-16.23.22:398][  0]LogAssetRegistry: Asset discovery search completed in 2.9960 seconds
+[2021.06.05-16.23.22:401][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.06.05-16.23.22:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.05-16.23.22:594][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.05-16.23.22:595][  0]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.05-16.23.22:598][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.05-16.23.22:666][  1]LogRenderer: Reallocating scene render targets to support 1224x384 Format 10 NumSamples 1 (Frame:1).
+[2021.06.05-16.23.22:668][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/' took 0.30s
+[2021.06.05-16.23.24:366][196]LogSlate: Window 'Message Log' being destroyed
+[2021.06.05-16.23.24:372][196]LogSlate: Window 'Message Log' being destroyed
+[2021.06.05-16.23.25:390][314]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.05-16.23.29:026][450]LogRenderer: Reallocating scene render targets to support 1224x388 Format 10 NumSamples 1 (Frame:435).
+[2021.06.05-16.23.29:068][450]LogRenderer: Reallocating scene render targets to support 1224x392 Format 10 NumSamples 1 (Frame:436).
+[2021.06.05-16.23.29:111][450]LogRenderer: Reallocating scene render targets to support 1224x420 Format 10 NumSamples 1 (Frame:437).
+[2021.06.05-16.23.29:150][450]LogRenderer: Reallocating scene render targets to support 1224x480 Format 10 NumSamples 1 (Frame:438).
+[2021.06.05-16.23.29:187][450]LogRenderer: Reallocating scene render targets to support 1224x524 Format 10 NumSamples 1 (Frame:439).
+[2021.06.05-16.23.29:225][450]LogRenderer: Reallocating scene render targets to support 1224x548 Format 10 NumSamples 1 (Frame:440).
+[2021.06.05-16.23.29:253][450]LogRenderer: Reallocating scene render targets to support 1224x552 Format 10 NumSamples 1 (Frame:441).
+[2021.06.05-16.23.37:185][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:185][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:185][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:186][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:186][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:186][350]LoadErrors: Failed to load /Game/Walker/X-wing/Meshes/x-wing_2__Skeleton.x-wing_2__Skeleton Referenced by x-wing_2__Anim_Skelet_Close
+[2021.06.05-16.23.37:186][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:187][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:187][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:187][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:187][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:187][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:187][350]LoadErrors: Failed to load /Game/Walker/X-wing/Meshes/x-wing_2__Skeleton.x-wing_2__Skeleton Referenced by x-wing_2__Anim_Skelet_CloseFly
+[2021.06.05-16.23.37:187][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:188][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:188][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:188][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:188][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:189][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:189][350]LoadErrors: Failed to load /Game/Walker/X-wing/Meshes/x-wing_2__Skeleton.x-wing_2__Skeleton Referenced by x-wing_2__Anim_Skelet_Open
+[2021.06.05-16.23.37:189][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:189][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor': Can't find file.
+[2021.06.05-16.23.37:190][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal': Can't find file.
+[2021.06.05-16.23.37:191][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal': Can't find file.
+[2021.06.05-16.23.37:191][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:191][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:191][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor': Can't find file.
+[2021.06.05-16.23.37:191][350]LoadErrors: Failed to load /Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor.x-wing_Glass_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2021.06.05-16.23.37:191][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor': Can't find file.
+[2021.06.05-16.23.37:191][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal': Can't find file.
+[2021.06.05-16.23.37:191][350]LoadErrors: Failed to load /Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal.x-wing_Glass_Normal Referenced by MaterialExpressionTextureSample_1
+[2021.06.05-16.23.37:192][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal': Can't find file.
+[2021.06.05-16.23.37:192][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:192][350]LoadErrors: Failed to load /Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic.x-wing_Glass_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_2
+[2021.06.05-16.23.37:192][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Glass.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:195][350]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2021.06.05-16.23.37:195][350]LogMaterial: Warning: C:\Users\VANO\Documents\Unreal Projects\3DModels-UnrealEngine\Project\Content\X-wing\Materials\Glass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.05-16.23.37:196][350]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.05-16.23.37:196][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor': Can't find file.
+[2021.06.05-16.23.37:196][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor': Can't find file.
+[2021.06.05-16.23.37:196][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal': Can't find file.
+[2021.06.05-16.23.37:196][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:197][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:198][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor': Can't find file.
+[2021.06.05-16.23.37:198][350]LoadErrors: Failed to load /Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor.x-wing_Metal_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2021.06.05-16.23.37:198][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor': Can't find file.
+[2021.06.05-16.23.37:198][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal': Can't find file.
+[2021.06.05-16.23.37:198][350]LoadErrors: Failed to load /Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal.x-wing_Metal_Normal Referenced by MaterialExpressionTextureSample_1
+[2021.06.05-16.23.37:198][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal': Can't find file.
+[2021.06.05-16.23.37:198][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:198][350]LoadErrors: Failed to load /Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic.x-wing_Metal_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_3
+[2021.06.05-16.23.37:199][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Materials/Metal.uasset' failed to load '/Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic': Can't find file.
+[2021.06.05-16.23.37:202][350]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2021.06.05-16.23.37:202][350]LogMaterial: Warning: C:\Users\VANO\Documents\Unreal Projects\3DModels-UnrealEngine\Project\Content\X-wing\Materials\Metal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.05-16.23.37:202][350]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.05-16.23.37:202][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Glass': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Glass': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Metal': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Metal': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Glass': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Glass': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Metal': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Metal': Can't find file.
+[2021.06.05-16.23.37:203][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:204][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:205][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:205][350]LoadErrors: Failed to load /Game/Walker/X-wing/Meshes/x-wing_2__Skeleton.x-wing_2__Skeleton Referenced by x-wing_2_
+[2021.06.05-16.23.37:205][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__Skeleton': Can't find file.
+[2021.06.05-16.23.37:205][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:205][350]LoadErrors: Failed to load /Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset.x-wing_2__PhysicsAsset Referenced by x-wing_2_
+[2021.06.05-16.23.37:205][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:205][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Metal': Can't find file.
+[2021.06.05-16.23.37:205][350]LoadErrors: Failed to load /Game/Walker/X-wing/Materials/Metal.Metal Referenced by x-wing_2_
+[2021.06.05-16.23.37:205][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Metal': Can't find file.
+[2021.06.05-16.23.37:206][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Glass': Can't find file.
+[2021.06.05-16.23.37:206][350]LoadErrors: Failed to load /Game/Walker/X-wing/Materials/Glass.Glass Referenced by x-wing_2_
+[2021.06.05-16.23.37:206][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Meshes/x-wing_2_.uasset' failed to load '/Game/Walker/X-wing/Materials/Glass': Can't find file.
+[2021.06.05-16.23.37:256][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Glass': Can't find file.
+[2021.06.05-16.23.37:256][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Glass': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Metal': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Metal': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Glass': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Glass': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Metal': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Metal': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:257][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:258][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_Skeleton': Can't find file.
+[2021.06.05-16.23.37:258][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_Skeleton': Can't find file.
+[2021.06.05-16.23.37:258][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:258][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:258][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_Skeleton': Can't find file.
+[2021.06.05-16.23.37:258][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_Skeleton': Can't find file.
+[2021.06.05-16.23.37:259][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_Skeleton': Can't find file.
+[2021.06.05-16.23.37:259][350]LoadErrors: Failed to load /Game/Walker/X-wing/Sources/x-wing_Skeleton.x-wing_Skeleton Referenced by x-wing
+[2021.06.05-16.23.37:259][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_Skeleton': Can't find file.
+[2021.06.05-16.23.37:259][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:259][350]LoadErrors: Failed to load /Game/Walker/X-wing/Sources/x-wing_PhysicsAsset.x-wing_PhysicsAsset Referenced by x-wing
+[2021.06.05-16.23.37:259][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/x-wing_PhysicsAsset': Can't find file.
+[2021.06.05-16.23.37:259][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Metal': Can't find file.
+[2021.06.05-16.23.37:259][350]LoadErrors: Failed to load /Game/Walker/X-wing/Sources/Metal.Metal Referenced by x-wing
+[2021.06.05-16.23.37:260][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Metal': Can't find file.
+[2021.06.05-16.23.37:260][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Glass': Can't find file.
+[2021.06.05-16.23.37:260][350]LoadErrors: Failed to load /Game/Walker/X-wing/Sources/Glass.Glass Referenced by x-wing
+[2021.06.05-16.23.37:260][350]LogLinker: Warning: While loading 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/X-wing/Sources/x-wing.uasset' failed to load '/Game/Walker/X-wing/Sources/Glass': Can't find file.
+[2021.06.05-16.23.37:617][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_2__Anim_Skelet_Close423C6EC149E597D2DEF7D8BBB6390007.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_Close.uasset'
+[2021.06.05-16.23.37:625][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_2__Anim_Skelet_CloseFly0DE3CCBA4BAC0549990B8A833553B011.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.uasset'
+[2021.06.05-16.23.37:631][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_2__Anim_Skelet_Open3682B87A4F982678553D74AF67CC241C.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_Open.uasset'
+[2021.06.05-16.23.37:651][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Walker/X-wing/Materials/Glass" FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Materials/Glass.uasset" SILENT=true
+[2021.06.05-16.23.37:659][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/GlassCC14206D417E4941DD689690762AF7D7.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Materials/Glass.uasset'
+[2021.06.05-16.23.37:669][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Walker/X-wing/Materials/Metal" FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Materials/Metal.uasset" SILENT=true
+[2021.06.05-16.23.37:677][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Metal087DC63148DFDE4B6CF12CB6706BFD07.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Materials/Metal.uasset'
+[2021.06.05-16.23.37:680][350]LogAnimation: Warning: SkeletalMesh x-wing_2_ has no skeleton. This needs to fixed before an animation can be set
+[2021.06.05-16.23.37:692][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Walker/X-wing/Meshes/x-wing_2_" FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Meshes/x-wing_2_.uasset" SILENT=true
+[2021.06.05-16.23.38:112][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_2_9494215F449CB42B5A62A6B3C2D1BE85.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Meshes/x-wing_2_.uasset'
+[2021.06.05-16.23.38:115][350]LogAnimation: Warning: SkeletalMesh x-wing_2_ has no skeleton. This needs to fixed before an animation can be set
+[2021.06.05-16.23.38:134][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_2__PhysicsAsset0DECBC2B485CFEBB3736B88968DAA048.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset.uasset'
+[2021.06.05-16.23.38:136][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_2__SkeletonEDE669244B86BE1A087DCB844EF1A1AD.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Meshes/x-wing_2__Skeleton.uasset'
+[2021.06.05-16.23.38:147][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Walker/X-wing/Sources/Glass" FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/Glass.uasset" SILENT=true
+[2021.06.05-16.23.38:153][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Glass0F6046C642A47E32B7B0318B2E42A3C4.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/Glass.uasset'
+[2021.06.05-16.23.38:162][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Walker/X-wing/Sources/Metal" FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/Metal.uasset" SILENT=true
+[2021.06.05-16.23.38:168][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/Metal17845DE7413A2C90CFAC0FB4FB3A7D9A.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/Metal.uasset'
+[2021.06.05-16.23.38:169][350]LogAnimation: Warning: SkeletalMesh x-wing has no skeleton. This needs to fixed before an animation can be set
+[2021.06.05-16.23.38:177][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Walker/X-wing/Sources/x-wing" FILE="C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing.uasset" SILENT=true
+[2021.06.05-16.23.38:558][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing0F7A7E584B01266BBBC03FBC5D2BF262.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing.uasset'
+[2021.06.05-16.23.38:568][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Glass_BaseColorC5D70E49448475C14F60589301F6AF91.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Glass_BaseColor.uasset'
+[2021.06.05-16.23.38:596][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Glass_Normal7225C79447A54ADDEBD708B3940D7281.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Glass_Normal.uasset'
+[2021.06.05-16.23.38:625][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Glass_OcclusionRoughnessMDD4183EC42075414C454DA87D3C427D6.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Glass_OcclusionRoughnessMetallic.uasset'
+[2021.06.05-16.23.38:651][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Metal_BaseColor5D21A776417BCC735626D0B1AC2CC8EA.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Metal_BaseColor.uasset'
+[2021.06.05-16.23.38:688][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Metal_Normal9E27ACFE49F3CE355035B394671A135E.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Metal_Normal.uasset'
+[2021.06.05-16.23.38:725][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Metal_OcclusionRoughnessM081C17FE4F456805F989819E384635FF.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Metal_OcclusionRoughnessMetallic.uasset'
+[2021.06.05-16.23.38:726][350]LogAnimation: Warning: SkeletalMesh x-wing has no skeleton. This needs to fixed before an animation can be set
+[2021.06.05-16.23.38:748][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_PhysicsAsset9CD1DE8A4FA8FD322C3C9FA32B61571C.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_PhysicsAsset.uasset'
+[2021.06.05-16.23.38:750][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Skeleton0A68B1DC4987B149C0ED86884B7216D9.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Sources/x-wing_Skeleton.uasset'
+[2021.06.05-16.23.38:767][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Glass_BaseColorA0B2FB444CC41A5F1639EAB5B90B1735.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor.uasset'
+[2021.06.05-16.23.38:796][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Glass_Normal72290B95458E19335C9E19988AC1801B.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Tuxtures/x-wing_Glass_Normal.uasset'
+[2021.06.05-16.23.38:826][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Glass_OcclusionRoughnessM755D04EE41A0F2F0A58539A8FBCBBFCA.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic.uasset'
+[2021.06.05-16.23.38:853][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Metal_BaseColor41E9FB0443513CAC7712FC8B500B2704.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor.uasset'
+[2021.06.05-16.23.38:888][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Metal_NormalF3A55AF54FEBEDAAFF3AD2A57462FCB2.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Tuxtures/x-wing_Metal_Normal.uasset'
+[2021.06.05-16.23.38:927][350]LogSavePackage: Moving 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Saved/x-wing_Metal_OcclusionRoughnessMB43149394E4C176727501EB880435E90.tmp' to 'C:/Users/VANO/Documents/Unreal Projects/3DModels-UnrealEngine/Project/Content/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic.uasset'
+[2021.06.05-16.23.39:950][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.06.05-16.23.39:974][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.05-16.23.40:000][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:025][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.05-16.23.40:051][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:076][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:100][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.05-16.23.40:124][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:150][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.05-16.23.40:175][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:199][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:222][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.05-16.23.40:247][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:271][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.05-16.23.40:296][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.05-16.23.40:320][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:345][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:386][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:410][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.05-16.23.40:435][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:461][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.05-16.23.40:487][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.05-16.23.40:511][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.05-16.23.40:535][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.05-16.23.40:558][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:590][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.06.05-16.23.40:615][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.05-16.23.40:675][350]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.05-16.23.40:675][350]LogContentValidation: Display: Validating AnimSequence /Game/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_Close.x-wing_2__Anim_Skelet_Close
+[2021.06.05-16.23.40:675][350]LogContentValidation: Display: Validating AnimSequence /Game/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.x-wing_2__Anim_Skelet_CloseFly
+[2021.06.05-16.23.40:675][350]LogContentValidation: Display: Validating AnimSequence /Game/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_Open.x-wing_2__Anim_Skelet_Open
+[2021.06.05-16.23.40:675][350]LogContentValidation: Display: Validating Material /Game/Walker/X-wing/Materials/Glass.Glass
+[2021.06.05-16.23.40:675][350]LogContentValidation: Display: Validating Material /Game/Walker/X-wing/Materials/Metal.Metal
+[2021.06.05-16.23.40:675][350]LogContentValidation: Display: Validating SkeletalMesh /Game/Walker/X-wing/Meshes/x-wing_2_.x-wing_2_
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating PhysicsAsset /Game/Walker/X-wing/Meshes/x-wing_2__PhysicsAsset.x-wing_2__PhysicsAsset
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Skeleton /Game/Walker/X-wing/Meshes/x-wing_2__Skeleton.x-wing_2__Skeleton
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Material /Game/Walker/X-wing/Sources/Glass.Glass
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Material /Game/Walker/X-wing/Sources/Metal.Metal
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating SkeletalMesh /Game/Walker/X-wing/Sources/x-wing.x-wing
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Sources/x-wing_Glass_BaseColor.x-wing_Glass_BaseColor
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Sources/x-wing_Glass_Normal.x-wing_Glass_Normal
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Sources/x-wing_Glass_OcclusionRoughnessMetallic.x-wing_Glass_OcclusionRoughnessMetallic
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Sources/x-wing_Metal_BaseColor.x-wing_Metal_BaseColor
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Sources/x-wing_Metal_Normal.x-wing_Metal_Normal
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Sources/x-wing_Metal_OcclusionRoughnessMetallic.x-wing_Metal_OcclusionRoughnessMetallic
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating PhysicsAsset /Game/Walker/X-wing/Sources/x-wing_PhysicsAsset.x-wing_PhysicsAsset
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Skeleton /Game/Walker/X-wing/Sources/x-wing_Skeleton.x-wing_Skeleton
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Tuxtures/x-wing_Glass_BaseColor.x-wing_Glass_BaseColor
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Tuxtures/x-wing_Glass_Normal.x-wing_Glass_Normal
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Tuxtures/x-wing_Glass_OcclusionRoughnessMetallic.x-wing_Glass_OcclusionRoughnessMetallic
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Tuxtures/x-wing_Metal_BaseColor.x-wing_Metal_BaseColor
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Tuxtures/x-wing_Metal_Normal.x-wing_Metal_Normal
+[2021.06.05-16.23.40:676][350]LogContentValidation: Display: Validating Texture2D /Game/Walker/X-wing/Tuxtures/x-wing_Metal_OcclusionRoughnessMetallic.x-wing_Metal_OcclusionRoughnessMetallic
+[2021.06.05-16.24.25:058][636]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Walker/X-wing/Materials/Glass.Glass
+[2021.06.05-16.24.25:064][636]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2021.06.05-16.24.25:065][636]LogMaterial: Warning: /Engine/Transient.Glass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.05-16.24.25:065][636]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.05-16.24.25:273][636]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2021.06.05-16.24.25:274][636]LogMaterial: Warning: /Engine/Transient.Glass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.05-16.24.25:274][636]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.05-16.24.25:278][636]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2021.06.05-16.24.25:278][636]LogMaterial: Warning: /Engine/Transient.Glass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.05-16.24.25:278][636]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.05-16.24.25:285][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.05-16.24.25:288][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.06.05-16.24.25:292][636]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.05-16.24.25:317][636]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.06.05-16.24.25:321][636]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.05-16.24.25:382][637]LogRenderer: Reallocating scene render targets to support 1224x608 Format 10 NumSamples 1 (Frame:1).
+[2021.06.05-16.24.27:749][895]LogSlate: Window 'Glass' being destroyed
+[2021.06.05-16.24.27:755][895]LogSlate: Window 'Glass' being destroyed
+[2021.06.05-16.24.27:773][895]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.24.27:773][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-16.24.34:552][701]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Walker/X-wing/Animations/x-wing_2__Anim_Skelet_CloseFly.x-wing_2__Anim_Skelet_CloseFly
+[2021.06.05-16.24.35:855][701]LogSlate: Window 'Message' being destroyed
+[2021.06.05-16.24.37:159][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.06.05-16.24.37:181][849]LogSlate: Window 'Project - Unreal Editor' being destroyed
+[2021.06.05-16.24.37:181][849]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.06.05-16.24.37:268][850]Cmd: QUIT_EDITOR
+[2021.06.05-16.24.37:268][850]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.05-16.24.37:273][850]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.05-16.24.37:273][850]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.06.05-16.24.37:288][850]LogExit: Preparing to exit.
+[2021.06.05-16.24.37:891][850]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.24.37:891][850]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.24.37:891][850]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.24.37:891][850]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.24.37:897][850]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.05-16.24.37:906][850]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-16.24.37:906][850]LogExit: Editor shut down
+[2021.06.05-16.24.37:906][850]LogExit: Transaction tracking system shut down
+[2021.06.05-16.24.38:155][850]LogExit: Object subsystem successfully closed.
+[2021.06.05-16.24.38:174][850]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.05-16.24.38:183][850]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2021.06.05-16.24.38:183][850]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2021.06.05-16.24.38:183][850]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2021.06.05-16.24.38:185][850]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2021.06.05-16.24.38:186][850]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2021.06.05-16.24.38:399][850]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2021.06.05-16.24.38:400][850]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2021.06.05-16.24.38:432][850]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2021.06.05-16.24.38:433][850]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2021.06.05-16.24.38:435][850]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2021.06.05-16.24.38:503][850]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2021.06.05-16.24.38:504][850]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2021.06.05-16.24.38:605][850]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2021.06.05-16.24.38:748][850]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2021.06.05-16.24.38:748][850]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2021.06.05-16.24.38:748][850]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2021.06.05-16.24.38:749][850]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2021.06.05-16.24.38:750][850]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2021.06.05-16.24.38:750][850]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2021.06.05-16.24.38:750][850]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2021.06.05-16.24.38:750][850]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2021.06.05-16.24.38:750][850]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2021.06.05-16.24.38:751][850]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module Core (206)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2021.06.05-16.24.38:752][850]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2021.06.05-16.24.38:753][850]LogDerivedDataCache: Shutdown
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2021.06.05-16.24.38:753][850]LogXGEController: Cleaning working directory: C:/Users/VANO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2021.06.05-16.24.38:753][850]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2021.06.05-16.24.38:754][850]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2021.06.05-16.24.38:759][850]LogHMD: Freeing OpenVRDLLHandle.
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2021.06.05-16.24.38:759][850]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2021.06.05-16.24.38:760][850]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2021.06.05-16.24.38:760][850]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2021.06.05-16.24.38:780][850]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2021.06.05-16.24.38:780][850]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.05-16.24.38:780][850]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB329299D-4243-1365-F9E2-A0B5321D889B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=0127d23447e0ca4591264a88972f84dd%7C55baf5637c6f455fb28582e79bfc5fad%7C119ce5bc-9152-4761-9e6c-dae071b6d878&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.05-16.24.38:785][850]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2021.06.05-16.24.38:786][850]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module Media (57)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.06.05-16.24.38:787][850]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.06.05-16.24.38:788][850]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.06.05-16.24.38:788][850]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.05-16.24.38:788][850]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.05-16.24.38:789][850]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.05-16.24.38:790][850]LogD3D11RHI: Shutdown
+[2021.06.05-16.24.38:790][850]LogD3D11RHI: CleanupD3DDevice
+[2021.06.05-16.24.38:802][850]LogExit: Exiting.
+[2021.06.05-16.24.38:819][850]Log file closed, 06/05/21 19:24:38
